@@ -15,6 +15,8 @@ cd ToolsTerbaru
 
 sh svls.sh
 
-Klick Link Here Untuk Mengetahui Username & Password
-
-http://bit.ly/2JYzGnI
+<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>
+<  Klick Link Here Untuk Mengetahui Username & Password  >
+<                                                        > 
+<                http://bit.ly/2JYzGnI                   >
+<========================================================>
