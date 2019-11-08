@@ -17,8 +17,8 @@ sh svls.sh
 
 <^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^>
 
-  Klick Link Here Untuk Mengetahui Username & Password  
+Klick Link Here Untuk Mengetahui Username & Password  
 
-                http://bit.ly/2JYzGnI                   
+http://bit.ly/2JYzGnI                   
 
 <========================================================>
