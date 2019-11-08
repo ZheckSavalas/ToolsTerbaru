@@ -3,7 +3,9 @@ pkg install update && upgrade
 
 pkg install python2
 
-pkg install lolcat
+pkg install ruby
+
+gem install lolcat
 
 pkg install figlet
 
