@@ -11,7 +11,11 @@ pkg install git
 
 git clone https://github.com/ZheckSavalas/ToolsTerbaru
 
+ls
+
 cd ToolsTerbaru
+
+ls
 
 sh svls.sh
 
