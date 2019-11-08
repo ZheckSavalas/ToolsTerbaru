@@ -11,7 +11,10 @@ echo
 echo
 python2 svls.py
 echo
+clear
 # [SUBSCRIBE] Zacky Saksakame
+# Yang Recode Gue Doain Smoga Tangan Lu Korengan
+# Modal DONG AJG !!!!!
 figlet -f standard Tools Terbaru | lolcat
 echo
 echo  " ____________________-=[Private Tools]=-____________________" | lolcat
