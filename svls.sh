@@ -279,11 +279,13 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-pkg install python
-pkg insta git
-git clone https://github.com/karjok/terkey
-cd terkey 
-python terkey.py
+pkg install update
+pkg install upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/ZheckSavalas/Key
+cd Key 
+python Key.py
 fi
 
 if [ $pil = 20 ]
